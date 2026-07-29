@@ -4,7 +4,7 @@
 
 # 👋 Olá, eu sou o **siiko**
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Mobile+Developer;Flutter+Developer;Android+%7C+iOS;Always+Building..." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Mobile+Developer;Kotlin+Developer;Android+%7C;Always+Building..." />
 
 <br>
 
@@ -21,7 +21,7 @@
 
 Nome........: siiko
 GitHub......: github.com/siikolab
-Stack.......: Flutter | Dart | Firebase | Git
+Stack.......: Kotlin | Jetpack Compose | Firebase | Git
 Objetivo....: Desenvolvedor Mobile
 Status......: Criando aplicações para Android e iOS.
 ```
@@ -32,72 +32,13 @@ Status......: Criando aplicações para Android e iOS.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,git,github,vscode&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=kotlin,firebase,androidstudio,git,github,vscode&theme=dark"/>
 
 </div>
 
 ---
 
-# 📚 Atualmente estudando
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=flutter"/>
-
-### Flutter
-
-Widgets • State Management • UI Responsiva • Boas práticas
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=dart"/>
-
-### Dart
-
-POO • Null Safety • Clean Code
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=firebase"/>
-
-### Firebase
-
-Authentication • Firestore • Storage • Cloud Messaging
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=androidstudio"/>
-
-### Android Studio
-
-Debug • Emuladores • Build • Performance
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=git"/>
-
-### Git
-
-Versionamento • GitHub • Organização de projetos
-
-</div>
-
----
-
-# 🚀 Projetos
-
-<div align="center">
-
-| Projeto | Descrição |
-|---|---|
-| 📱 Mobile Apps | Aplicativos desenvolvidos em Flutter |
-| 🔐 Firebase Apps | Login, banco de dados e armazenamento |
-| 🎨 UI Challenges | Interfaces modernas e responsivas |
-| 🚀 Estudos | Projetos para evolução constante |
-
-</div>
-
----
 
 # 📊 GitHub Analytics
 
@@ -121,13 +62,6 @@ Versionamento • GitHub • Organização de projetos
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=siikolab&theme=tokyonight&no-frame=true&column=4&margin-w=15"/>
-
-</div>
 
 ---
 
@@ -140,30 +74,6 @@ Versionamento • GitHub • Organização de projetos
 </div>
 
 ---
-
-# 🎯 Roadmap
-
-```text
-📱 Flutter            ████████░░ 80%
-🎯 Dart               ████████░░ 80%
-🔥 Firebase           ██████░░░░ 60%
-🤖 Android            █████░░░░░ 50%
-🍎 iOS                ████░░░░░░ 40%
-🌿 Git/GitHub         █████████░ 90%
-```
-
----
-
-# 🎯 Objetivos
-
-```text
-✔ Desenvolvedor Mobile
-✔ Criar aplicativos Android e iOS
-✔ Publicar apps na Play Store
-✔ Aprender arquitetura mobile
-✔ Evoluir em Clean Architecture
-✔ Contribuir com Open Source
-```
 
 ---
 

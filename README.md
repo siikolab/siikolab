@@ -1,29 +1,29 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:0d1117&height=180&section=header&text=Welcome&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:0d1117&height=180&section=header&text=Welcome&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 <div align="center">
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Olá, eu sou o **siiko**
+# 👋 Olá, eu sou o **siiko**
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=3500&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Python+Backend+Developer+in+Progress;FastAPI+Learner;Linux+Enthusiast;Always+Learning..." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Mobile+Developer;Flutter+Developer;Android+%7C+iOS;Always+Building..." />
 
 <br>
 
-![](https://komarev.com/ghpvc/?username=siikolab&style=for-the-badge&color=00ff41)
+![](https://komarev.com/ghpvc/?username=siikolab&style=for-the-badge&color=3B82F6)
 
 </div>
 
 ---
 
-# 💻 Sobre mim
+# 📱 Sobre mim
 
 ```bash
 > whoami
 
 Nome........: siiko
 GitHub......: github.com/siikolab
-Stack.......: Python | FastAPI | PostgreSQL | Linux | Git
-Objetivo....: Desenvolvedor Back-end
-Status......: Construindo projetos e aprendendo todos os dias.
+Stack.......: Flutter | Dart | Firebase | Git
+Objetivo....: Desenvolvedor Mobile
+Status......: Criando aplicações para Android e iOS.
 ```
 
 ---
@@ -32,7 +32,7 @@ Status......: Construindo projetos e aprendendo todos os dias.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,git,github,linux,bash,vscode,docker&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,git,github,vscode&theme=dark"/>
 
 </div>
 
@@ -42,46 +42,43 @@ Status......: Construindo projetos e aprendendo todos os dias.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python"/>
+<img src="https://skillicons.dev/icons?i=flutter"/>
 
-### Python
+### Flutter
 
-Programação Orientada a Objetos • Estruturas de Dados • Boas práticas
+Widgets • State Management • UI Responsiva • Boas práticas
 
+<br>
 
-<img src="https://skillicons.dev/icons?i=fastapi"/>
+<img src="https://skillicons.dev/icons?i=dart"/>
 
-### FastAPI
+### Dart
 
-APIs REST • Pydantic • Documentação Swagger
+POO • Null Safety • Clean Code
 
+<br>
 
-<img src="https://skillicons.dev/icons?i=postgres"/>
+<img src="https://skillicons.dev/icons?i=firebase"/>
 
-### PostgreSQL
+### Firebase
 
-SQL • Modelagem de Banco • CRUD
+Authentication • Firestore • Storage • Cloud Messaging
 
+<br>
 
-<img src="https://skillicons.dev/icons?i=docker"/>
+<img src="https://skillicons.dev/icons?i=androidstudio"/>
 
-### Docker
+### Android Studio
 
-Containers • Ambientes isolados
+Debug • Emuladores • Build • Performance
 
+<br>
 
 <img src="https://skillicons.dev/icons?i=git"/>
 
 ### Git
 
-GitHub • Versionamento • Organização de projetos
-
-
-<img src="https://skillicons.dev/icons?i=linux"/>
-
-### Linux
-
-Terminal • Bash • Ambiente de desenvolvimento
+Versionamento • GitHub • Organização de projetos
 
 </div>
 
@@ -93,10 +90,10 @@ Terminal • Bash • Ambiente de desenvolvimento
 
 | Projeto | Descrição |
 |---|---|
-| 🐍 Python Projects | Exercícios e projetos para evolução na linguagem |
-| ⚡ FastAPI APIs | APIs REST com autenticação e banco de dados |
-| 🗄️ Database Projects | Sistemas usando PostgreSQL |
-| 🐳 Docker Projects | Aplicações containerizadas |
+| 📱 Mobile Apps | Aplicativos desenvolvidos em Flutter |
+| 🔐 Firebase Apps | Login, banco de dados e armazenamento |
+| 🎨 UI Challenges | Interfaces modernas e responsivas |
+| 🚀 Estudos | Projetos para evolução constante |
 
 </div>
 
@@ -106,7 +103,7 @@ Terminal • Bash • Ambiente de desenvolvimento
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=siikolab&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=siikolab&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siikolab&layout=compact&theme=tokyonight&hide_border=true"/>
 
@@ -147,12 +144,12 @@ Terminal • Bash • Ambiente de desenvolvimento
 # 🎯 Roadmap
 
 ```text
-🐍 Python              ███████░░░ 70%
-⚡ FastAPI             ████░░░░░░ 40%
-🗄️ PostgreSQL          ███░░░░░░░ 30%
-🐳 Docker              ██░░░░░░░░ 20%
-🐧 Linux               ███████░░░ 70%
-🌿 Git/GitHub          █████████░ 90%
+📱 Flutter            ████████░░ 80%
+🎯 Dart               ████████░░ 80%
+🔥 Firebase           ██████░░░░ 60%
+🤖 Android            █████░░░░░ 50%
+🍎 iOS                ████░░░░░░ 40%
+🌿 Git/GitHub         █████████░ 90%
 ```
 
 ---
@@ -160,11 +157,11 @@ Terminal • Bash • Ambiente de desenvolvimento
 # 🎯 Objetivos
 
 ```text
-✔ Desenvolvedor Back-end Python
-✔ Criar APIs REST profissionais
-✔ Trabalhar com bancos de dados
-✔ Aprender arquitetura de software
-✔ Evoluir em Docker e Cloud
+✔ Desenvolvedor Mobile
+✔ Criar aplicativos Android e iOS
+✔ Publicar apps na Play Store
+✔ Aprender arquitetura mobile
+✔ Evoluir em Clean Architecture
 ✔ Contribuir com Open Source
 ```
 
@@ -186,8 +183,8 @@ Terminal • Bash • Ambiente de desenvolvimento
 
 ### 💭 Quote
 
-> *"First, solve the problem. Then, write the code."* — John Johnson
+> *"Great apps are built one widget at a time."*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:0d1117&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:0d1117&height=120&section=footer"/>
 
 </div>
